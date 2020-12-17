@@ -1,5 +1,5 @@
 {
-  "name": "PrintUIComponent",
+  "name": "print-ui-Component",
   "version": "1.0.0",
   "description": "Utility for printing React or any HTML component with styling",
   "main": "lib/index.js",

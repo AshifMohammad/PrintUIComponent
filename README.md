@@ -3,7 +3,7 @@ Motivation : Using in built browse's feature Print React, or any HTML component 
 
 - Usage:
   - `npm install PrintUIComponent`
-  - import PrintUIComponent from 'printuiComponent'
+  - import PrintUIComponent from 'printuicomponent'
   - call <br/>
       `PrintUIComponent(htmlBody, styles, windowTitle, windowSize = {
                               height: "",
